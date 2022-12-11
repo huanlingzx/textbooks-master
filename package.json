@@ -24,7 +24,7 @@
     "@mathigon/parser": "^0.2.18",
     "emojione-assets": "^3.1.1",
     "eslint": "^5.12.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-validator": "^5.3.1",
     "grunt": "^1.0.3",
     "grunt-autoprefixer": "^3.0.4",
